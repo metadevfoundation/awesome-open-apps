@@ -1,21 +1,16 @@
-# Awesome Node.js
+# Awesome Apps
 
-> A curated list of modern web apps
+> A curated list of opensource, yet modern, web apps
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) listmancery.
 
 
 ## Packages
 
-- [Web](#web)
-- [Command-line apps](#command-line-apps)
+- [Web](#web-applications)
 - 
 
-### Mad science
-
-
-
-### Command-line apps
+### Web Applications
 
 
 
